@@ -1,0 +1,27 @@
+body{
+    background:rgb(230,230,230);
+}
+.container{
+    padding:100px 50px 100px 50px;
+}
+.title{
+    margin-bottom:50px;
+    text-align:center;
+}
+.task{
+    padding:10px 20px 10px 20px;
+    border-radius:5px;
+    margin-bottom:20px;
+    background: white;
+    cursor:pointer;
+}
+.no-margin{
+    margin-bottom:0px;
+    margin-top:0px;
+}
+label{
+    margin-bottom:0px;
+}
+li{
+    list-style-type:none;
+}
