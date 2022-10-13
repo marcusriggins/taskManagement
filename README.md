@@ -5,4 +5,7 @@ HOW to deloy the code to local.
 4. Run localhost:8000 in your chrome browser
 5. And test Everything - All is working!
 
-<img src="chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=2&url=http%3A%2F%2Flocalhost%3A8000%2Ftask-list" />
+
+Version
+1. PHP 7.25 
+2. Laravel 7.29
